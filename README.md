@@ -1,0 +1,3 @@
+## Spring Response Entity
+
+This Spring Boot project demonstrates how to use `ResponseEntity` to craft custom HTTP responses in RESTful APIs. It showcases setting status codes, headers, and response bodies to handle various scenarios such as unauthorized access, bad requests, and resource creation. The included examples illustrate practical applications of `ResponseEntity` for precise control over HTTP responses.
